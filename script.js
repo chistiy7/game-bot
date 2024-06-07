@@ -87,3 +87,5 @@ document
 document
   .querySelector(".game--restart")
   .addEventListener("click", handleRestartGame);
+
+<script src="https://telegram.org/js/telegram-web-app.js"></script>;
