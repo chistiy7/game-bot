@@ -1,5 +1,3 @@
-<script src="https://telegram.org/js/telegram-web-app.js"></script>;
-
 const statusDisplay = document.querySelector(".game--status");
 
 let gameActive = true;
