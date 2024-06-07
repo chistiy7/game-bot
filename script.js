@@ -87,3 +87,5 @@ document
 document
   .querySelector(".game--restart")
   .addEventListener("click", handleRestartGame);
+
+// бепкиаскцк
